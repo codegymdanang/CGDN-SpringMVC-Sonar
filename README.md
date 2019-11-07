@@ -43,3 +43,5 @@
 		</plugins>
 	</build>
 ```
+4. Setup command line
+<img width="1072" alt="Screen Shot 2019-11-07 at 9 00 09 AM" src="https://user-images.githubusercontent.com/37821007/68353766-209cc800-013d-11ea-8c89-babeded07034.png">
