@@ -45,7 +45,7 @@
 ```
 4. Setup command line
 <img width="1072" alt="Screen Shot 2019-11-07 at 9 00 09 AM" src="https://user-images.githubusercontent.com/37821007/68353766-209cc800-013d-11ea-8c89-babeded07034.png">
-5. Docker get image
-docker pull sonarqube
-6. Docker run sonnar
-docker run -d -p 9000:9000  dockerizedsonarqubeserver_app
+5. Docker get image <br>
+docker pull sonarqube <br>
+6. Docker run sonnar <br>
+ docker run -d -p 9000:9000 sonarqube:latest
