@@ -49,3 +49,10 @@
 docker pull sonarqube <br>
 6. Docker run sonnar <br>
  docker run -d -p 9000:9000 sonarqube:latest
+
+```
+mvn sonar:sonar \
+  -Dsonar.projectKey=codegymdanang \
+  -Dsonar.host.url=http://codegymdanang.com:9000 \
+  -Dsonar.login=49605478afe89ebef38850a74148eecc3b7e280f
+```
